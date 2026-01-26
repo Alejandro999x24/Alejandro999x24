@@ -2,6 +2,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Amado</h1>
 <h3 align="center">Passionate Software Development Student | Exploring the Limitless World of Technology</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alejandro999x24/Alejandro999x24/main/banner.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Alejandro999x24/Alejandro999x24/main/Diseño sin título.png" alt="banner" width="100%" />
 </p>
 
