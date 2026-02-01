@@ -17,18 +17,16 @@
         <li>📚 Actualmente sigo aprendiendo y mejorando mis habilidades cada día</li>
       </ul>
     </td>
-
-    <!-- GIF Animado -->
     <td>
-      <img 
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="220"
+      <img
+        src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif"
+        width="230"
         alt="Coding Animation"
-        style="background: transparent;"
       />
     </td>
   </tr>
 </table>
+
 
 <h2 align="center">🛠️ Tecnologías y herramientas que manejo :</h2>
 
