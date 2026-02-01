@@ -36,9 +36,9 @@
 <br><br>
 
 <!-- Proyecto 1 -->
-<h3 align="center">📌 EvaluacionAlejo</h3>
+<h3 align="center">📌 Software Reservacion De Citas </h3>
 <p align="center">
-  Proyecto de evaluación con estructura clara y diseño limpio.
+  Proyecto de reservacion de citas (Java)
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 <hr>
 
 <!-- Proyecto 2 -->
-<h3 align="center">💰 CryptoAlejo</h3>
+<h3 align="center">💰 Consulta El Valor De Tu Cripto</h3>
 <p align="center">
   API y web para gestión de criptomonedas (Java + JS).
 </p>
