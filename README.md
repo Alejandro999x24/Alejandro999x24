@@ -4,7 +4,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Soy Alejandro Amado</h1>
 <h2 align="center">👨‍💻 Sobre mí :</h2>
-    <td>
       <ul>
         <li>🙋‍♂️ Desarrollador apasionado por la tecnología y la programación</li>
         <li>🚀 Me enfoco en crear soluciones modernas a través del desarrollo web y aplicaciones móviles</li>
@@ -12,16 +11,6 @@
         <li>🎨 Me gusta combinar programación y diseño para crear interfaces atractivas y funcionales</li>
         <li>📚 Actualmente sigo aprendiendo y mejorando mis habilidades cada día</li>
       </ul>
-    </td>
-    <td>
-      <img
-        src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif"
-        width="230"
-        alt="Coding Animation"
-      />
-    </td>
-
-
 <h2 align="center">🛠️ Tecnologías y herramientas que manejo :</h2>
 
 <p align="center">
