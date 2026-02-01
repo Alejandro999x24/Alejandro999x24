@@ -33,8 +33,6 @@
   Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.
 </p>
 
-<br><br>
-
 <!-- Proyecto 1 -->
 <h3 align="center">📌 Software Reservacion De Citas </h3>
 <p align="center">
