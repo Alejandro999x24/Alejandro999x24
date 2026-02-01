@@ -40,13 +40,11 @@
     <td align="left" width="400">
       <h3>📌 EvaluacionAlejo</h3>
       <p>Proyecto de evaluación con estructura clara y diseño limpio.</p>
-      🔗 <a href="https://alejandro999x24.github.io/EvaluacionAlejo/" target="_blank">Ver Demo</a> <br>
       📦 <a href="https://github.com/Alejandro999x24/EvaluacionAlejo" target="_blank">Ver Repositorio</a>
     </td>
     <td align="left" width="400">
       <h3>💰 CryptoAlejo</h3>
       <p>API y web para registro y gestión de criptomonedas (Java + JS).</p>
-      🔗 <a href="https://alejandro999x24.github.io/CryptoAlejo/" target="_blank">Ver Demo</a> <br>
       📦 <a href="https://github.com/Alejandro999x24/CryptoAlejo" target="_blank">Ver Repositorio</a>
     </td>
   </tr>
