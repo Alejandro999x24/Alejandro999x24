@@ -27,26 +27,44 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</p>
 <h2 align="center">🚀 Proyectos Destacados :</h2>
 
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
 <p align="center">
-  Aquí algunos de mis proyectos desarrollados y publicados en GitHub:
+  Estos son algunos de mis proyectos más importantes, desarrollados con tecnologías modernas y enfocados en soluciones profesionales.
+</p>
+
+<br>
+
+<!-- Proyectos en tarjetas -->
+<p align="center">
+  <a href="https://alejandro999x24.github.io/Sitio-Web-La-Victoria-/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=Sitio-Web-La-Victoria-&theme=tokyonight" />
+  </a>
+
+  <a href="https://alejandro999x24.github.io/CryptoAlejo/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=CryptoAlejo&theme=tokyonight" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO1&theme=tokyonight" />
+  <a href="https://alejandro999x24.github.io/EvaluacionAlejo/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=EvaluacionAlejo&theme=tokyonight" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO2&theme=tokyonight" />
+  🌐 Puedes ver más proyectos aquí 👉 
+  <a href="https://github.com/Alejandro999x24?tab=repositories" target="_blank">
+    <b>Mis Repositorios en GitHub</b>
   </a>
 </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
