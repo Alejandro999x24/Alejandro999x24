@@ -27,43 +27,45 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
-<h2 align="center">🚀 Proyectos Destacados :</h2>
-
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  Estos son algunos de mis proyectos más importantes, desarrollados con tecnologías modernas y enfocados en soluciones profesionales.
+  Estos son algunos de mis proyectos más importantes publicados en GitHub:
 </p>
 
 <br>
 
-<!-- Proyectos en tarjetas -->
-<p align="center">
-  <a href="https://alejandro999x24.github.io/Sitio-Web-La-Victoria-/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=Sitio-Web-La-Victoria-&theme=tokyonight" />
-  </a>
-
-  <a href="https://alejandro999x24.github.io/CryptoAlejo/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=CryptoAlejo&theme=tokyonight" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://alejandro999x24.github.io/EvaluacionAlejo/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro999x24&repo=EvaluacionAlejo&theme=tokyonight" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  🌐 Puedes ver más proyectos aquí 👉 
-  <a href="https://github.com/Alejandro999x24?tab=repositories" target="_blank">
-    <b>Mis Repositorios en GitHub</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="left" width="400">
+      <h3>📌 EvaluacionAlejo</h3>
+      <p>Proyecto de evaluación con estructura clara y diseño limpio.</p>
+      🔗 <a href="https://alejandro999x24.github.io/EvaluacionAlejo/" target="_blank">Ver Demo</a> <br>
+      📦 <a href="https://github.com/Alejandro999x24/EvaluacionAlejo" target="_blank">Ver Repositorio</a>
+    </td>
+    <td align="left" width="400">
+      <h3>💰 CryptoAlejo</h3>
+      <p>API y web para registro y gestión de criptomonedas (Java + JS).</p>
+      🔗 <a href="https://alejandro999x24.github.io/CryptoAlejo/" target="_blank">Ver Demo</a> <br>
+      📦 <a href="https://github.com/Alejandro999x24/CryptoAlejo" target="_blank">Ver Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="400">
+      <h3>🏢 Sitio-Web-La-Victoria-</h3>
+      <p>Sitio web empresarial responsive con productos, FAQs y contacto.</p>
+      🔗 <a href="https://alejandro999x24.github.io/Sitio-Web-La-Victoria-/" target="_blank">Ver Demo</a> <br>
+      📦 <a href="https://github.com/Alejandro999x24/Sitio-Web-La-Victoria-" target="_blank">Ver Repositorio</a>
+    </td>
+    <td align="center" width="400">
+      <h3>📌 Más proyectos</h3>
+      <p>Puedes ver todos mis repositorios en GitHub.</p>
+      👉 <a href="https://github.com/Alejandro999x24?tab=repositories" target="_blank">
+        Ver Repositorios
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Connect with me:</h3>
