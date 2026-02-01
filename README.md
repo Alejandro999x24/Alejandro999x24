@@ -4,10 +4,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Soy Alejandro Amado</h1>
 <h2 align="center">👨‍💻 Sobre mí :</h2>
-
-<table align="center">
-  <tr>
-    <!-- Texto -->
     <td>
       <ul>
         <li>🙋‍♂️ Desarrollador apasionado por la tecnología y la programación</li>
@@ -24,8 +20,6 @@
         alt="Coding Animation"
       />
     </td>
-  </tr>
-</table>
 
 
 <h2 align="center">🛠️ Tecnologías y herramientas que manejo :</h2>
