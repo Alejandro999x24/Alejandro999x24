@@ -65,13 +65,34 @@
   </tr>
 </table>
 
+<h3 align="center">Contactame:</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
+  <!-- Gmail -->
+  <a href="mailto:amadofuentesdavidalejandro5@gmail.com" target="_blank">
+    <img align="center"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+      height="30" />
+  </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/its.alejo24a?igsh=enM3MnkxcWlpeXdv&utm_source=qr" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" />
+      alt="Instagram" height="30" width="40" />
   </a>
-<a href="https://discord.com/users/693186781897687102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/693186781897687102" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  📩 <b>Email:</b> amadofuentesdavidalejandro5@gmail.com
+</p>
+
 
