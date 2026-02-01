@@ -30,40 +30,60 @@
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  Estos son algunos de mis proyectos más importantes publicados en GitHub:
+  Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.
 </p>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="left" width="400">
+    <!-- Proyecto 1 -->
+    <td align="center" width="350">
       <h3>📌 EvaluacionAlejo</h3>
       <p>Proyecto de evaluación con estructura clara y diseño limpio.</p>
-      📦 <a href="https://github.com/Alejandro999x24/EvaluacionAlejo" target="_blank">Ver Repositorio</a>
+      <a href="https://alejandro999x24.github.io/EvaluacionAlejo/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Demo-000?style=for-the-badge">
+      </a>
+      <a href="https://github.com/Alejandro999x24/EvaluacionAlejo" target="_blank">
+        <img src="https://img.shields.io/badge/📦%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
     </td>
-    <td align="left" width="400">
+    <!-- Proyecto 2 -->
+    <td align="center" width="350">
       <h3>💰 CryptoAlejo</h3>
-      <p>API y web para registro y gestión de criptomonedas (Java + JS).</p>
-      📦 <a href="https://github.com/Alejandro999x24/CryptoAlejo" target="_blank">Ver Repositorio</a>
+      <p>API y web para gestión de criptomonedas (Java + JS).</p>
+      <a href="https://alejandro999x24.github.io/CryptoAlejo/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Demo-000?style=for-the-badge">
+      </a>
+      <a href="https://github.com/Alejandro999x24/CryptoAlejo" target="_blank">
+        <img src="https://img.shields.io/badge/📦%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
     </td>
   </tr>
+
   <tr>
-    <td align="left" width="400">
-      <h3>🏢 Sitio-Web-La-Victoria-</h3>
-      <p>Sitio web empresarial responsive con productos, FAQs y contacto.</p>
-      🔗 <a href="https://alejandro999x24.github.io/Sitio-Web-La-Victoria-/" target="_blank">Ver Demo</a> <br>
-      📦 <a href="https://github.com/Alejandro999x24/Sitio-Web-La-Victoria-" target="_blank">Ver Repositorio</a>
+    <!-- Proyecto 3 -->
+    <td align="center" width="350">
+      <h3>🏢 Sitio Web La Victoria</h3>
+      <p>Sitio empresarial responsive con productos, FAQs y contacto.</p>
+      <a href="https://alejandro999x24.github.io/Sitio-Web-La-Victoria-/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Demo-000?style=for-the-badge">
+      </a>
+      <a href="https://github.com/Alejandro999x24/Sitio-Web-La-Victoria-" target="_blank">
+        <img src="https://img.shields.io/badge/📦%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
     </td>
-    <td align="center" width="400">
-      <h3>📌 Más proyectos</h3>
-      <p>Puedes ver todos mis repositorios en GitHub.</p>
-      👉 <a href="https://github.com/Alejandro999x24?tab=repositories" target="_blank">
-        Ver Repositorios
+    <!-- Más proyectos -->
+    <td align="center" width="350">
+      <h3>✨ Más proyectos</h3>
+      <p>Mira todos mis trabajos y repositorios en GitHub.</p>
+      <a href="https://github.com/Alejandro999x24?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/👉%20Ver%20Repositorios-blue?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">Contáctame:</h3>
 
