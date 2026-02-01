@@ -5,15 +5,30 @@
 <h1 align="center">Hola 👋, Soy Alejandro Amado</h1>
 <h2 align="center">👨‍💻 Sobre mí :</h2>
 
-<ul>
-  <li>🙋‍♂️ Desarrollador apasionado por la tecnología y la programación</li>
-  <li>🚀 Me enfoco en crear soluciones modernas a través del desarrollo web y aplicaciones móviles</li>
-  <li>🏢 Me especializo en el diseño y desarrollo de sitios web empresariales profesionales</li>
-  <li>🎨 Me gusta combinar programación y diseño para crear interfaces atractivas y funcionales</li>
-  <li>📚 Actualmente sigo aprendiendo y mejorando mis habilidades cada día</li>
-</ul>
+<table align="center">
+  <tr>
+    <!-- Texto -->
+    <td>
+      <ul>
+        <li>🙋‍♂️ Desarrollador apasionado por la tecnología y la programación</li>
+        <li>🚀 Me enfoco en crear soluciones modernas a través del desarrollo web y aplicaciones móviles</li>
+        <li>🏢 Me especializo en el diseño y desarrollo de sitios web empresariales y profesionales</li>
+        <li>🎨 Me gusta combinar programación y diseño para crear interfaces atractivas y funcionales</li>
+        <li>📚 Actualmente sigo aprendiendo y mejorando mis habilidades cada día</li>
+      </ul>
+    </td>
 
-<br>
+    <!-- GIF Animado -->
+    <td>
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="220"
+        alt="Coding Animation"
+        style="background: transparent;"
+      />
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🛠️ Tecnologías y herramientas que manejo :</h2>
 
