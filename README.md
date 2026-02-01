@@ -71,7 +71,7 @@
   <!-- Gmail -->
   <a href="mailto:amadofuentesdavidalejandro5@gmail.com" target="_blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
       alt="Gmail"
       height="30"
       width="40" />
